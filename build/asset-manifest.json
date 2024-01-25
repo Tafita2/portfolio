@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/github.io/portfolio/static/css/main.b96432d0.css",
+    "main.js": "/github.io/portfolio/static/js/main.49e0f78e.js",
+    "static/media/Drian(1).png": "/github.io/portfolio/static/media/Drian(1).a73e552cd4ddc9cc742d.png",
+    "index.html": "/github.io/portfolio/index.html",
+    "main.b96432d0.css.map": "/github.io/portfolio/static/css/main.b96432d0.css.map",
+    "main.49e0f78e.js.map": "/github.io/portfolio/static/js/main.49e0f78e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b96432d0.css",
+    "static/js/main.49e0f78e.js"
+  ]
+}
